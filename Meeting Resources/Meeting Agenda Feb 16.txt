@@ -1,0 +1,14 @@
+Meeting Agenda (2/16/19):
+1) Decide on a Team Name
+
+2) Finalize Project (Modeling after typeform.com or going a different route)
+
+3) Decide which Tech Stacks we are using for Front & Backend
+
+4) Divide the work and set goals for the first week
+	a) Who is frontend & backend
+	b) Who are team leads
+	c) What are we trying to accomplish the first week
+	d) Create a goal setting template
+
+5) Set Weekly meetings with our respective teams

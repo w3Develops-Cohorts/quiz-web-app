@@ -1,0 +1,31 @@
+Meeting Agenda (2/16/19):
+1) Decide on a Team Name
+	-Come back to this one
+
+2) Finalize Project (Modeling after typeform.com or going a different route)
+	-We want to cover all the bases
+	-We want Users to be able to make, edit, delete (Final goal)
+	-Stretch Goal: Have the users be able to take the quizes (and grade)
+	-First focus is to have the quizes be able to be created, and then we can add a user system
+
+3) Decide which Tech Stacks we are using for Front & Backend
+	-HTML & CSS
+	-JavaScript & React
+	-Firebased for Backend
+
+4) Divide the work and set goals for the first week
+	a) Who is frontend & backend
+		- We will all start Frontend
+	b) Who are team leads
+		- Decide Later
+	c) What are we trying to accomplish the first week
+		- By Tuesday have a sitemap of a design, and a page by the end of the week
+		- On the sitemap we can pick out what we want to work on
+		- Landing Page
+		- Page to display list of quizes 
+		- Page to show one specific quiz
+	d) Create a goal setting template
+		- Trello for dividing up work
+
+5) Set Weekly meetings with our respective teams
+	- Around Saturday or Sunday Afternoons
