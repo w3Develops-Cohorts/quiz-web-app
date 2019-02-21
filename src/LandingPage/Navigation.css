@@ -1,0 +1,9 @@
+.navBar{
+	background-color: #C2EFE4;
+	display: inline-flex;
+	position: fixed;
+}
+
+.logoClass{
+	background-color: white;
+}
