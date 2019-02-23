@@ -1,0 +1,64 @@
+body{
+  background-color:white;
+}
+.logo{
+  font-family: 'Baloo Tamma';font-size: 22px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #55bde4;
+}
+ul a{
+  text-decoration: none;
+  
+}
+li{
+  float: right;
+}
+
+li a{
+  display: block;
+  padding: 30px;
+}
+.menu-btn{
+  color: #565b60;
+  font-size: 8px bold;
+  border-radius: 12px;
+}
+.title{
+  text-align: center;
+  color: grey;
+}
+.flex-container{
+  display: flex;
+  background-color: white;
+}
+.flex-container > div {
+  background-color: #f1f1f1;
+  text-align: center;
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+.quiz-title{
+  color: #55bde4;
+}
+.start-test-btn{
+  text-decoration: none;
+  margin:10px;
+  background-color: #55bde4;
+  padding: 5px;
+  color: #565b60;
+  font-size: 14px;
+  border-radius: 12px;
+  font-weight: bolder;
+}
+.footer{
+  background-color: #55bde4;
+  padding:30px;
+  color: #565b60;
+  text-align: center;
+}
