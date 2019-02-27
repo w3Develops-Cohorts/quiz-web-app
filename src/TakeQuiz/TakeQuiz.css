@@ -1,0 +1,35 @@
+body {
+    background-color: lightgray;
+}
+.quizName {
+    margin-top: 125px;
+    text-align: center;
+}
+.questionAndOptions {
+    width: 50%;
+    margin: auto;
+    border: 2px solid #31afb4;
+    border-radius: 25px;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.question {
+    text-align: center;
+}
+.options {
+    list-style: none;
+}
+.submitQuizBtn {
+    display: block;
+    margin: 0 auto;
+    font-size: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    padding: 10px 40px 10px 40px;
+    background-color: #31afb4;
+    color: whitesmoke;
+}
+input[type="radio"] {
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
