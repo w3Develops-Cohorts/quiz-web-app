@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
-import logo from './logo.png';
-import Navigation from './Navigation.js';
-import Welcome from './Welcome.js';
-import CreateQuiz from './CreateQuiz.js';
-import TakeQuiz from './TakeQuiz.js';
-import AboutUs from './AboutUs.js';
+import Navigation from '../Navigation/Navigation';
+import Welcome from '../WelcomePage/Welcome';
+import CreateQuiz from '../CreateQuiz/CreateQuiz';
+import TakeQuiz from '../TakeQuiz/TakeQuiz';
+import AboutUs from '../AboutUs/AboutUs';
 import './LandingPage.css';
 
 class LandingPage extends Component {
@@ -27,7 +26,7 @@ class LandingPage extends Component {
 
        		{/**** About Us Component ****/}
         	<AboutUs />
-        	
+
         </body>
       </div>
     );
