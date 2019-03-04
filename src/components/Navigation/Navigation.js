@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './Navigation.css';
-import logo from './logo.png';
+import logo from '../../assets/images/logo.png';
 
 class Navigation extends Component {
   render() {
