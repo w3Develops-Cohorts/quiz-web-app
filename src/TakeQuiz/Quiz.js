@@ -15,7 +15,7 @@ function Quiz(props) {
     function renderQuestion(key){
         return (
             <div className="questionAndOptions">
-                <Question className="question" content={key.question}/>
+                <Question className="question" content={key.question} number={key.questionNumber}/>
                 <ul className="options">
                     {key.options.map(option => renderOptions(option, key.questionNumber))}
                 </ul>
